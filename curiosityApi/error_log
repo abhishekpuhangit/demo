@@ -1,0 +1,19 @@
+[20-Sep-2021 05:35:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home1/a1630ciy/public_html/daajyu.app/curiosityApi/competition_listing.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/a1630ciy/public_html/daajyu.app/curiosityApi/competition_listing.php on line 21
+[20-Sep-2021 05:37:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home1/a1630ciy/public_html/daajyu.app/curiosityApi/competition_listing.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/a1630ciy/public_html/daajyu.app/curiosityApi/competition_listing.php on line 21
+[21-Sep-2021 11:15:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/a1630ciy/public_html/daajyu.app/curiosityApi/change_pass.php:1) in /home1/a1630ciy/public_html/daajyu.app/curiosityApi/change_pass.php on line 3
+[21-Sep-2021 11:18:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/a1630ciy/public_html/daajyu.app/curiosityApi/change_pass.php:1) in /home1/a1630ciy/public_html/daajyu.app/curiosityApi/change_pass.php on line 3
+[21-Sep-2021 11:19:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/a1630ciy/public_html/daajyu.app/curiosityApi/change_pass.php:1) in /home1/a1630ciy/public_html/daajyu.app/curiosityApi/change_pass.php on line 3
+[21-Sep-2021 11:19:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/a1630ciy/public_html/daajyu.app/curiosityApi/change_pass.php:1) in /home1/a1630ciy/public_html/daajyu.app/curiosityApi/change_pass.php on line 3
+[21-Sep-2021 11:20:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/a1630ciy/public_html/daajyu.app/curiosityApi/change_pass.php:1) in /home1/a1630ciy/public_html/daajyu.app/curiosityApi/change_pass.php on line 3
+[21-Sep-2021 11:20:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/a1630ciy/public_html/daajyu.app/curiosityApi/change_pass.php:1) in /home1/a1630ciy/public_html/daajyu.app/curiosityApi/change_pass.php on line 3
+[21-Sep-2021 11:21:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/a1630ciy/public_html/daajyu.app/curiosityApi/change_pass.php:1) in /home1/a1630ciy/public_html/daajyu.app/curiosityApi/change_pass.php on line 3
+[21-Sep-2021 11:21:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/a1630ciy/public_html/daajyu.app/curiosityApi/change_pass.php:1) in /home1/a1630ciy/public_html/daajyu.app/curiosityApi/change_pass.php on line 3
+[21-Sep-2021 11:21:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/a1630ciy/public_html/daajyu.app/curiosityApi/change_pass.php:1) in /home1/a1630ciy/public_html/daajyu.app/curiosityApi/change_pass.php on line 3
+[21-Sep-2021 11:24:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/a1630ciy/public_html/daajyu.app/curiosityApi/change_pass.php:1) in /home1/a1630ciy/public_html/daajyu.app/curiosityApi/change_pass.php on line 3
+[21-Sep-2021 11:26:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/a1630ciy/public_html/daajyu.app/curiosityApi/change_pass.php:1) in /home1/a1630ciy/public_html/daajyu.app/curiosityApi/change_pass.php on line 3
